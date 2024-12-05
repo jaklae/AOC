@@ -1,6 +1,5 @@
 # AOC
 Advent of coding [https://adventofcode.com/]
-<code>
     __
     .-'  |
    /   <\|
@@ -13,4 +12,3 @@ Advent of coding [https://adventofcode.com/]
   '.   ____/
    | -|-|_
    |____)_) 
-</code>
